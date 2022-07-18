@@ -1,2 +1,2 @@
-# Mini-Deep-Learning
-Project 1
+# Deep Computer Vision
+
